@@ -33,12 +33,12 @@
   "nodes": [
     {
       "location": {
-        "name": "",
-        "country": "",
-        "latitude": "",
-        "longitude": ""
+        "name": "United States",
+        "country": "USA",
+        "latitude": "40.7128",
+        "longitude": "74.0060"
       },
-      "node_type": "",
+      "node_type": "producer",
       "p2p_endpoint": "",
       "api_endpoint": "",
       "ssl_endpoint": ""
