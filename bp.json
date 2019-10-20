@@ -14,9 +14,9 @@
     },
     "location": {
       "name": "United States",
-      "country": "USA",
-      "latitude": "40.7128" ,
-      "longitude": "74.0060"
+      "country": "US",
+      "latitude": 40.7128 ,
+      "longitude": 74.0060
     },
     "social": {
       "steemit": "boidcom",
@@ -34,9 +34,9 @@
     {
       "location": {
         "name": "United States",
-        "country": "USA",
-        "latitude": "40.7128",
-        "longitude": "74.0060"
+        "country": "US",
+        "latitude": 40.7128,
+        "longitude": 74.0060
       },
       "node_type": "producer",
       "p2p_endpoint": "",
