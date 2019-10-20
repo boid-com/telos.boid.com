@@ -1,0 +1,47 @@
+
+{
+  "producer_account_name": "telosboidbp1",
+  "org": {
+    "candidate_name": "boid.com",
+    "website": "https://www.boid.com",
+    "ownership_disclosure": "",
+    "code_of_conduct": "",
+    "email": "telos@boid.com",
+    "branding": {
+      "logo_256": "https://telos.boid.com/BoidLogo-lg.png",
+      "logo_1024": "https://telos.boid.com/BoidLogo-lg.png",
+      "logo_svg": "https://telos.boid.com/boidlogo.svg"
+    },
+    "location": {
+      "name": "",
+      "country": "USA",
+      "latitude": "" ,
+      "longitude": ""
+    },
+    "social": {
+      "steemit": "boidcom",
+      "twitter": "boidcom",
+      "youtube": "boidcom",
+      "facebook": "",
+      "github": "boid-com",
+      "reddit": "boidcom",
+      "keybase": "boidcom",
+      "telegram": "boidcom",
+      "wechat": ""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "",
+        "country": "",
+        "latitude": "",
+        "longitude": ""
+      },
+      "node_type": "",
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
