@@ -13,10 +13,10 @@
       "logo_svg": "https://telos.boid.com/boidlogo.svg"
     },
     "location": {
-      "name": "",
+      "name": "United States",
       "country": "USA",
-      "latitude": "" ,
-      "longitude": ""
+      "latitude": "40.7128" ,
+      "longitude": "74.0060"
     },
     "social": {
       "steemit": "boidcom",
