@@ -1,46 +1,56 @@
 {
-  "producer_account_name": "3boidanimus3",
-  "org": {
-    "candidate_name": "boid.com",
-    "website": "https://telos.boid.com",
-    "code_of_conduct": "https://telos.boid.com",
-    "ownership_disclosure": "https://telos.boid.com/ownership.html",
-    "email": "telos@boid.com",
-    "branding": {
-      "logo_256": "https://telos.boid.com/BoidLogo-lg.png",
-      "logo_1024": "https://telos.boid.com/BoidLogo-lg.png",
-      "logo_svg": "https://telos.boid.com/boidlogo.svg"
-    },
-    "location": {
-      "name": "Tenerife, Canary Islands, Spain",
-        "country": "724",
-        "latitude": 28.467319,
-        "longitude": -16.247113
-    },
-    "social": {
-      "steemit": "boidcom",
-      "twitter": "boidcom",
-      "youtube": "https://www.youtube.com/channel/UCL4I3DksM41qPKih2PbiQ7g/featured",
-      "facebook": "boidcom",
-      "github": "boid-com",
-      "reddit": "boidcom",
-      "keybase": "boidcom",
-      "telegram": "Boidcom_official",
-      "wechat": ""
-    }
-  },
-  "nodes": [
-    {
-      "location": {
-        "name": "Tenerife, Canary Islands, Spain",
-        "country": "724",
-        "latitude": 28.467319,
-        "longitude": -16.247113
-      },
-      "node_type": "producer",
-      "p2p_endpoint": "boid-telos-testnet.animusystems.com:3535",
-      "api_endpoint": "boid-telos-testnet.animusystems.com",
-      "ssl_endpoint": "boid-telos-testnet.animusystems.com"
-    }
-  ]
+	"producer_account_name": "3boidanimus3",
+	"org": {
+		"candidate_name": "boid.com",
+		"website": "https://telos.boid.com",
+		"code_of_conduct": "https://telos.boid.com",
+		"ownership_disclosure": "https://telos.boid.com/ownership.html",
+		"email": "telos@boid.com",
+		"branding": {
+			"logo_256": "https://telos.boid.com/BoidLogo-lg.png",
+			"logo_1024": "https://telos.boid.com/BoidLogo-lg.png",
+			"logo_svg": "https://telos.boid.com/boidlogo.svg"
+		},
+		"location": {
+			"name": "Tenerife, Canary Islands, Spain",
+			"country": "724",
+			"latitude": 28.467319,
+			"longitude": -16.247113
+		},
+		"social": {
+			"steemit": "boidcom",
+			"twitter": "boidcom",
+			"youtube": "https://www.youtube.com/channel/UCL4I3DksM41qPKih2PbiQ7g/featured",
+			"facebook": "boidcom",
+			"github": "boid-com",
+			"reddit": "boidcom",
+			"keybase": "boidcom",
+			"telegram": "Boidcom_official",
+			"wechat": ""
+		}
+	},
+	"nodes": [{
+			"location": {
+				"name": "Tenerife, Canary Islands, Spain",
+				"country": "724",
+				"latitude": 28.467319,
+				"longitude": -16.247113
+			},
+			"node_type": "producer",
+			"p2p_endpoint": "boid-telos-testnet.animusystems.com:3535",
+			"api_endpoint": "boid-telos-testnet.animusystems.com",
+			"ssl_endpoint": "boid-telos-testnet.animusystems.com"
+		},
+		        {
+                         "location": {
+			        "name": "Tenerife, Canary Islands, Spain",
+			        "country": "724",
+			        "latitude": 28.467319,
+			        "longitude": -16.247113
+		},
+		"node_type": "full",
+		"p2p_endpoint": "boid-telos-testnet.animusystems.com:3535",
+		"api_endpoint": "boid-telos-testnet.animusystems.com",
+		"ssl_endpoint": "boid-telos-testnet.animusystems.com"
+	}]
 }
