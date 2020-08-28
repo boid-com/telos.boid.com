@@ -3,6 +3,7 @@
   "org": {
     "candidate_name": "boid.com",
     "website": "https://telos.boid.com",
+    "code_of_conduct": "https://telos.boid.com",
     "ownership_disclosure": "https://telos.boid.com/ownership.html",
     "email": "telos@boid.com",
     "branding": {
@@ -18,13 +19,13 @@
     },
     "social": {
       "steemit": "boidcom",
-      "twitter": "https://twitter.com/boidcom",
+      "twitter": "boidcom",
       "youtube": "https://www.youtube.com/channel/UCL4I3DksM41qPKih2PbiQ7g/featured",
-      "facebook": "https://www.facebook.com/boidcom",
-      "github": "https://github.com/boid-com",
+      "facebook": "boidcom",
+      "github": "boid-com",
       "reddit": "boidcom",
       "keybase": "boidcom",
-      "telegram": "https://t.me/Boidcom_official",
+      "telegram": "Boidcom_official",
       "wechat": ""
     }
   },
