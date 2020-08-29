@@ -13,7 +13,7 @@
 		},
 		"location": {
 			"name": "Tenerife, Canary Islands, Spain",
-			"country": "ESP",
+			"country": "ES",
 			"latitude": 28.467319,
 			"longitude": -16.247113
 		},
@@ -32,7 +32,7 @@
 	"nodes": [{
 			"location": {
 				"name": "Tenerife, Canary Islands, Spain",
-				"country": "ESP",
+				"country": "ES",
 				"latitude": 28.467319,
 				"longitude": -16.247113
 			},
@@ -44,7 +44,7 @@
 		        {
                          "location": {
 			        "name": "Tenerife, Canary Islands, Spain",
-			        "country": "ESP",
+			        "country": "ES",
 			        "latitude": 28.467319,
 			        "longitude": -16.247113
 		},
