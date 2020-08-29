@@ -37,7 +37,7 @@
 				"longitude": -16.247113
 			},
 			"node_type": "producer",
-			"p2p_endpoint": "https://boid-telos-testnet.animusystems.com:3535",
+			"p2p_endpoint": "boid-telos-testnet.animusystems.com:3535",
 			"api_endpoint": "",
 			"ssl_endpoint": "https://boid-telos-testnet.animusystems.com"
 		},
@@ -49,7 +49,7 @@
 			        "longitude": -16.247113
 		},
 		"node_type": "full",
-		"p2p_endpoint": "https://boid-telos-testnet.animusystems.com:3535",
+		"p2p_endpoint": "boid-telos-testnet.animusystems.com:3535",
 		"api_endpoint": "",
 		"ssl_endpoint": "https://boid-telos-testnet.animusystems.com"
 	}]
