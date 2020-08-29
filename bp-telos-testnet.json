@@ -38,7 +38,7 @@
 			},
 			"node_type": "producer",
 			"p2p_endpoint": "boid-telos-testnet.animusystems.com:3535",
-			"api_endpoint": "boid-telos-testnet.animusystems.com",
+			"api_endpoint": "",
 			"ssl_endpoint": "boid-telos-testnet.animusystems.com"
 		},
 		        {
@@ -50,7 +50,7 @@
 		},
 		"node_type": "full",
 		"p2p_endpoint": "boid-telos-testnet.animusystems.com:3535",
-		"api_endpoint": "boid-telos-testnet.animusystems.com",
+		"api_endpoint": "",
 		"ssl_endpoint": "boid-telos-testnet.animusystems.com"
 	}]
 }
