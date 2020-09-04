@@ -32,9 +32,9 @@
 	"nodes": [{
 			"location": {
 				"name": "Helsinki, Finland",
-				"country": "ES",
-				"latitude": 28.467319,
-				"longitude": -16.247113
+				"country": "FIN",
+				"latitude": 60.167758,
+				"longitude": 24.912356
 			},
 			"node_type": "producer",
 			"p2p_endpoint": "",
@@ -43,13 +43,13 @@
 		},
 {
       "location": {
-      "name": "Tenerife, Canary Islands, Spain",
-      "country": "ES",
-      "latitude": 28.467319,
-      "longitude": -16.247113
+      "name": "Helsinki, Finland",
+      "country": "FIN",
+      "latitude": 60.167758,
+      "longitude": 24.912356
       },
       "node_type": "seed",
-      "p2p_endpoint": "boid-telos-testnet-p2p.animusystems.com:3535",
+      "p2p_endpoint": "boid-telos.animusystems.com:5555",
       "api_endpoint": "",
       "ssl_endpoint": ""
     },
@@ -63,6 +63,6 @@
 		"node_type": "full",
 		"p2p_endpoint": "",
 		"api_endpoint": "",
-		"ssl_endpoint": "https://boid-telos-testnet.animusystems.com"
+		"ssl_endpoint": "https://boid-telos-api.animusystems.com"
 	}]
 }
