@@ -1,5 +1,5 @@
 {
-	"producer_account_name": "boid.animus",
+	"producer_account_name": "bp.boid",
 	"org": {
 		"candidate_name": "boid.com",
 		"website": "https://telos.boid.com",
@@ -63,6 +63,6 @@
 		"node_type": "full",
 		"p2p_endpoint": "",
 		"api_endpoint": "",
-		"ssl_endpoint": "https://boid-telos-api.animusystems.com"
+		"ssl_endpoint": ""
 	}]
 }
