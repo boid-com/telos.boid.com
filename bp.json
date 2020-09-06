@@ -32,7 +32,7 @@
 	"nodes": [{
 			"location": {
 				"name": "Helsinki, Finland",
-				"country": "FIN",
+				"country": "FI",
 				"latitude": 60.167758,
 				"longitude": 24.912356
 			},
@@ -44,7 +44,7 @@
 {
       "location": {
       "name": "Helsinki, Finland",
-      "country": "FIN",
+      "country": "FI",
       "latitude": 60.167758,
       "longitude": 24.912356
       },
