@@ -61,8 +61,8 @@
 			        "longitude": -16.247113
 		},
 		"node_type": "full",
-		"p2p_endpoint": "",
+		"p2p_endpoint": "boid-api-on-telos.animusystems.com:5353",
 		"api_endpoint": "",
-		"ssl_endpoint": ""
+		"ssl_endpoint": "https://boid-api-on-telos.animusystems.com"
 	}]
 }
