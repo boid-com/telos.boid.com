@@ -63,6 +63,10 @@
 		"node_type": "query",
 		"p2p_endpoint": "",
 		"api_endpoint": "",
-		"ssl_endpoint": "https://boid-api-on-telos.animusystems.com"
+		"ssl_endpoint": "https://boid-api-on-telos.animusystems.com",
+		"features": [
+      		   "chain_api",
+      		   "account-query"
+			]
 	}]
 }
