@@ -65,7 +65,7 @@
 		"api_endpoint": "",
 		"ssl_endpoint": "https://boid-api-on-telos.animusystems.com",
 		"features": [
-      		   "chain_api",
+      		   "chain-api",
       		   "account-query"
 			]
 	}]
