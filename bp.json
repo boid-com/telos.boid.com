@@ -60,7 +60,7 @@
 			        "latitude": 28.467319,
 			        "longitude": -16.247113
 		},
-		"node_type": "full",
+		"node_type": "query",
 		"p2p_endpoint": "",
 		"api_endpoint": "",
 		"ssl_endpoint": "https://boid-api-on-telos.animusystems.com"
