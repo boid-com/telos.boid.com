@@ -68,5 +68,17 @@
       		   "chain-api",
       		   "account-query"
 			]
-	}]
+	},
+		          {
+            "location": {
+                "name": "Tenerife, Canary Islands, Spain",
+                "country": "ES",
+                "latitude": 28.467319,
+                "longitude": -16.247113
+            },
+            "node_type": "query",
+            "features": ["firehose"],
+            "ssl_endpoint": "http://boid-telos.animusystems.com:9000"
+        }
+		 ]
 }
