@@ -78,7 +78,7 @@
             },
             "node_type": "query",
             "features": ["firehose"],
-            "ssl_endpoint": "https://boid-firehose.animusystems.com:9000"
+            "ssl_endpoint": "https://firehose-telos.animusystems.com"
         }
 		 ]
 }
