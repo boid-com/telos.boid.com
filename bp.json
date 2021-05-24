@@ -41,44 +41,80 @@
 			"api_endpoint": "",
 			"ssl_endpoint": ""
 		},
-{
-      "location": {
-      "name": "Helsinki, Finland",
-      "country": "FI",
-      "latitude": 60.167758,
-      "longitude": 24.912356
-      },
-      "node_type": "seed",
-      "p2p_endpoint": "boid-telos.animusystems.com:5555",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
-    },
-		        {
-                         "location": {
-			        "name": "Tenerife, Canary Islands, Spain",
-			        "country": "ES",
-			        "latitude": 28.467319,
-			        "longitude": -16.247113
+		{
+			"location": {
+				"name": "Helsinki, Finland",
+				"country": "FI",
+				"latitude": 60.167758,
+				"longitude": 24.912356
+			},
+			"node_type": "seed",
+			"p2p_endpoint": "boid-telos.animusystems.com:5555",
+			"api_endpoint": "",
+			"ssl_endpoint": ""
 		},
-		"node_type": "query",
-		"p2p_endpoint": "",
-		"api_endpoint": "",
-		"ssl_endpoint": "https://boid-api-on-telos.animusystems.com",
-		"features": [
-      		   "chain-api",
-      		   "account-query"
+		{
+			"location": {
+				"name": "Tenerife, Canary Islands, Spain",
+				"country": "ES",
+				"latitude": 28.467319,
+				"longitude": -16.247113
+			},
+			"node_type": "seed",
+			"p2p_endpoint": "boid-telos-mainnet-p2p.animusystems.com:5151",
+			"api_endpoint": "",
+			"ssl_endpoint": ""
+		},
+		{
+			"location": {
+				"name": "Tenerife, Canary Islands, Spain",
+				"country": "ES",
+				"latitude": 28.467319,
+				"longitude": -16.247113
+			},
+			"node_type": "seed",
+			"p2p_endpoint": "boid-telos-mainnet-p2p.animusystems.com:5252",
+			"api_endpoint": "",
+			"ssl_endpoint": ""
+		},
+		{
+			"location": {
+				"name": "Tenerife, Canary Islands, Spain",
+				"country": "ES",
+				"latitude": 28.467319,
+				"longitude": -16.247113
+			},
+			"node_type": "seed",
+			"p2p_endpoint": "boid-telos-mainnet-p2p.animusystems.com:5353",
+			"api_endpoint": "",
+			"ssl_endpoint": ""
+		},
+		{
+			"location": {
+				"name": "Tenerife, Canary Islands, Spain",
+				"country": "ES",
+				"latitude": 28.467319,
+				"longitude": -16.247113
+			},
+			"node_type": "query",
+			"p2p_endpoint": "",
+			"api_endpoint": "",
+			"ssl_endpoint": "https://boid-api-on-telos.animusystems.com",
+			"features": [
+				"chain-api",
+				"account-query"
 			]
-	},
-		          {
-            "location": {
-                "name": "Tenerife, Canary Islands, Spain",
-                "country": "ES",
-                "latitude": 28.467319,
-                "longitude": -16.247113
-            },
-            "node_type": "query",
-            "features": ["firehose"],
-            "ssl_endpoint": "https://boid-firehose.animusystems.com"
-        }
-		 ]
+		},
+		{
+			"location": {
+				"name": "Tenerife, Canary Islands, Spain",
+				"country": "ES",
+				"latitude": 28.467319,
+				"longitude": -16.247113
+			},
+			"node_type": "query",
+			"features": ["firehose"],
+			"ssl_endpoint": "https://boid-firehose.animusystems.com"
+		}
+	]
 }
