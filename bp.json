@@ -31,25 +31,13 @@
 	},
 	"nodes": [{
 			"location": {
-				"name": "Helsinki, Finland",
-				"country": "FI",
-				"latitude": 60.167758,
-				"longitude": 24.912356
+				"name": "Tenerife, Canary Islands, Spain",
+				"country": "ES",
+				"latitude": 28.467319,
+				"longitude": -16.247113
 			},
 			"node_type": "producer",
 			"p2p_endpoint": "",
-			"api_endpoint": "",
-			"ssl_endpoint": ""
-		},
-		{
-			"location": {
-				"name": "Helsinki, Finland",
-				"country": "FI",
-				"latitude": 60.167758,
-				"longitude": 24.912356
-			},
-			"node_type": "seed",
-			"p2p_endpoint": "telos.boid.animus.is:5555",
 			"api_endpoint": "",
 			"ssl_endpoint": ""
 		},
