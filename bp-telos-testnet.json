@@ -49,7 +49,7 @@
 				"longitude": -16.247113
 			},
 			"node_type": "seed",
-			"p2p_endpoint": "boid-telos-testnet-p2p.animusystems.com:3535",
+			"p2p_endpoint": "telos.testnet.boid.animus.is:3535",
 			"api_endpoint": "",
 			"ssl_endpoint": ""
 		},
@@ -61,7 +61,7 @@
 				"longitude": -16.247113
 			},
 			"node_type": "seed",
-			"p2p_endpoint": "boid-telos-testnet-p2p.animusystems.com:5050",
+			"p2p_endpoint": "telos.testnet.boid.animus.is:5050",
 			"api_endpoint": "",
 			"ssl_endpoint": ""
 		},
@@ -75,7 +75,7 @@
 			"node_type": "query",
 			"p2p_endpoint": "",
 			"api_endpoint": "",
-			"ssl_endpoint": "https://boid-telos-testnet.animusystems.com",
+			"ssl_endpoint": "https://telos.testnet.boid.animus.is",
 			"features": [
 				"chain-api",
 				"account-query"
