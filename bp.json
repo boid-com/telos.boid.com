@@ -90,7 +90,7 @@
 			},
 			"node_type": "query",
 			"features": ["firehose"],
-			"ssl_endpoint": "https://boid-firehose.animusystems.com"
+			"ssl_endpoint": "https://firehose.boid.animus.is"
 		}
 	]
 }
