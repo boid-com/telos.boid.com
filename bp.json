@@ -91,6 +91,24 @@
 			"node_type": "query",
 			"features": ["firehose"],
 			"ssl_endpoint": "https://firehose.boid.animus.is"
+		},
+		{
+			"location": {
+				"name": "Tenerife, Canary Islands, Spain",
+				"country": "ES",
+				"latitude": 28.467319,
+				"longitude": -16.247113
+			},
+			"node_type": "query",
+			"p2p_endpoint": "",
+			"api_endpoint": "",
+			"ssl_endpoint": "https://hyperion.telos.animus.is",
+			"features": [
+				"chain-api",
+				"account-query",
+				"history-v1",
+				"hyperion-v2"
+			]
 		}
 	]
 }
